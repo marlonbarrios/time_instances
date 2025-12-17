@@ -42,7 +42,7 @@ algorithmic perception, and the micro-geometries of experience.
 
 ## 2. [Ephemeral Accumulation for Human Time Scale](https://marlonbarrios.github.io/ephemeral_accumulation/)
 
-## 3. [Noise Waves (Gray)](https://marlonbarrios.github.io/noise_waves_gray/)
+## 3. [Perceived Ativity at Certain Times)](https://marlonbarrios.github.io/PerceivedActivityatCertainTime-/docs/index.html)
 A grayscale field animated by Perlin or simplex noise.  
 A study of emergence: time as turbulence rather than order.
 
