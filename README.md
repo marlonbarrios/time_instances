@@ -43,8 +43,6 @@ algorithmic perception, and the micro-geometries of experience.
 ## 2. [Ephemeral Accumulation for Human Time Scale](https://marlonbarrios.github.io/ephemeral_accumulation/)
 
 ## 3. [Perceived Ativity at Certain Times)](https://marlonbarrios.github.io/PerceivedActivityatCertainTime-/docs/index.html)
-A grayscale field animated by Perlin or simplex noise.  
-A study of emergence: time as turbulence rather than order.
 
 ## 4. [Spirograph 100 Squares](https://marlonbarrios.github.io/spirograh100squares/)
 A geometric choreography of rotating squares producing complex spirographic paths.  
