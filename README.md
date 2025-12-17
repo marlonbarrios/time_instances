@@ -1,4 +1,4 @@
-Time Instances: epistemic gestures of becoming
+# Time Instances: epistemic gestures of becoming
 
 <img width="1200" height="921" alt="Screenshot 2025-12-16 at 8 17 08 PM" src="https://github.com/user-attachments/assets/8cfd0342-034d-4670-a6fd-e2c8ad073bb4" />
 *A computational installation on time, minimal geometry, and epistemic perception*  
