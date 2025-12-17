@@ -49,12 +49,8 @@ algorithmic perception, and the micro-geometries of experience.
 ## 5. [Animated Phyllotaxis](https://marlonbarrios.github.io/animated_phylotaxis/)
 
 ## 6. [Concentric Waves](https://marlonbarrios.github.io/concentric_waves/)
-Waves radiate from a center, like pulses in water or a clock without numbers.  
-A portrait of time as periodic expansion.
 
 ## 7. [Portal 01](https://marlonbarrios.github.io/portal01/)
-A simulated aperture, a slow tunnel, a visual threshold.  
-Time becomes a portal—an unfolding toward or away from something unseen.
 
 ## 8. [Breathing Circle](https://marlonbarrios.github.io/breathing_circle/)
 A simple form performs inhalation and exhalation through expansion.  
