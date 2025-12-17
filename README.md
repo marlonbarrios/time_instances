@@ -50,7 +50,7 @@ algorithmic perception, and the micro-geometries of experience.
 
 ## 6. [Concentric Waves](https://marlonbarrios.github.io/concentric_waves/)
 
-## 7. [Portal 01](https://marlonbarrios.github.io/portal01/)
+## 7. [Portal with Oscilations](https://marlonbarrios.github.io/portal01/)
 
 ## 8. [Breathing Circle](https://marlonbarrios.github.io/breathing_circle/)
 A simple form performs inhalation and exhalation through expansion.  
