@@ -38,13 +38,9 @@ algorithmic perception, and the micro-geometries of experience.
 
 ---
 
-## 1. [Time Engine](https://marlonbarrios.github.io/time_engine/)
-A minimal temporal machine using recursive loops, oscillations, and subtle noise.  
-Time appears not as flow but as computation—an engine producing micro-events.
+## 1. [Ray Casting Clock](https://marlonbarrios.github.io/ray_casting_clock/)
 
 ## 2. [Ephemeral Accumulation for Human Time Scale](https://marlonbarrios.github.io/ephemeral_accumulation/)
-Infinite lines thrown across the screen, generating a quiet chaos.  
-A system about gesture, scattering, and the irreversibility of drawn time.
 
 ## 3. [Noise Waves (Gray)](https://marlonbarrios.github.io/noise_waves_gray/)
 A grayscale field animated by Perlin or simplex noise.  
