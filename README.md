@@ -44,13 +44,9 @@ algorithmic perception, and the micro-geometries of experience.
 
 ## 3. [Perceived Ativity at Certain Times](https://marlonbarrios.github.io/PerceivedActivityatCertainTime-/docs/index.html)
 
-## 4. [Spirograph 100 Squares](https://marlonbarrios.github.io/spirograh100squares/)
-A geometric choreography of rotating squares producing complex spirographic paths.  
-Circular motion becomes a measurement of computational temporality.
+## 4. [Temporal Patterns of 100 Rotating Nested Squares](https://marlonbarrios.github.io/spirograh100squares/)
 
 ## 5. [Animated Phyllotaxis](https://marlonbarrios.github.io/animated_phylotaxis/)
-A living diagram of botanical growth patterns.  
-Time appears as accumulation—points unfolding outward in mathematical spirals.
 
 ## 6. [Concentric Waves](https://marlonbarrios.github.io/concentric_waves/)
 Waves radiate from a center, like pulses in water or a clock without numbers.  
