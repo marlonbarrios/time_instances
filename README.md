@@ -1,11 +1,6 @@
 # Time Instances: epistemic gestures of becoming
-<div align="center">
-  <img
-    src="https://github.com/user-attachments/assets/8cfd0342-034d-4670-a6fd-e2c8ad073bb4"
-    alt="There Is a List of URLs – installation view"
-    width="900"
-  />
-</div>
+
+<img src="https://github.com/user-attachments/assets/8cfd0342-034d-4670-a6fd-e2c8ad073bb4" width="1200">
 *A computational installation on time, minimal geometry, and epistemic perception*  
 
 For this project, I imagine the exhibition space as a quiet machine—  
