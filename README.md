@@ -42,7 +42,7 @@ algorithmic perception, and the micro-geometries of experience.
 A minimal temporal machine using recursive loops, oscillations, and subtle noise.  
 Time appears not as flow but as computation—an engine producing micro-events.
 
-## 2. [Throwing Lines Forever](https://marlonbarrios.github.io/throwing_lines_forever/)
+## 2. [Ephemeral Accumulation for Human Time Scale](https://marlonbarrios.github.io/ephemeral_accumulation/)
 Infinite lines thrown across the screen, generating a quiet chaos.  
 A system about gesture, scattering, and the irreversibility of drawn time.
 
