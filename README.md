@@ -54,7 +54,7 @@ algorithmic perception, and the micro-geometries of experience.
 
 ## 8. [Breathing Circle](https://marlonbarrios.github.io/breathing_circle/)
 A simple form performs inhalation and exhalation through expansion.  
-A somatic interface for time—computation mimicking organic rhythm.
+An interface for time—computation mimicking organic rhythm.
 
 ## 9. [Black Ink Ensō](https://marlonbarrios.github.io/black_ink_enso/)
 A generative interpretation of the Zen ensō.  
