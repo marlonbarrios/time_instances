@@ -1,4 +1,4 @@
-# **Time Instances: Epistemic Gestures of Becoming**  
+# **Time Instances: Small Gestures of Becoming**  
 *A computational installation on time, minimal geometry, and epistemic perception*
 
 ![Time Instances – installation view](https://github.com/user-attachments/assets/8cfd0342-034d-4670-a6fd-e2c8ad073bb4)
