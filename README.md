@@ -69,34 +69,34 @@ Nodes and links drift and reorganize.
 A networked diagram of forces: tension, cohesion, and constant re-negotiation.
 
 ## 12. [Gravitas Epistola](https://marlonbarrios.github.io/gravitas_epistola/)
-A letter on gravity rendered through generative drift.  
-Particles fall, accumulate, or resist—time indexed by weight.
 
-## 13. [Infinite Cellular Automata](https://marlonbarrios.github.io/infinitecellularautomata/)
+## 13. [Transcriptional Fugue](https://transcriptionla-fugue-02.vercel.app/)
+
+## 14. [Infinite Cellular Automata](https://marlonbarrios.github.io/infinitecellularautomata/)
 A living grid where tiny rules produce emergent patterns.  
 Computation dreams itself through Conway-like logics.
 
-## 14. [Animated Lines (Sound Reactive)](https://marlonbarrios.github.io/animated_lines_sound/)
+## 15. [Animated Lines (Sound Reactive)](https://marlonbarrios.github.io/animated_lines_sound/)
 An audiovisual piece where lines respond to sound input.  
 A feedback circuit of sensing and drawing—time captured as vibration.
 
-## 15. [Connected Pathfinders](https://marlonbarrios.github.io/connected_pathfinders/)
+## 16. [Connected Pathfinders](https://marlonbarrios.github.io/connected_pathfinders/)
 Autonomous agents search, wander, and connect.  
 A choreography of computational decision-making in real time.
 
-## 16. [Absence 01](https://marlonbarrios.github.io/absence01/)
+## 17. [Absence 01](https://marlonbarrios.github.io/absence01/)
 Negative space as performer.  
 A slow erasure, a becoming-nothing, a temporal thinning of presence.
 
-## 17. [Dissipative 01](https://marlonbarrios.github.io/dissipative01/)
+## 18. [Dissipative 01](https://marlonbarrios.github.io/dissipative01/)
 A structure continuously dissolves and reforms.  
 A dissipative system expressing entropy and regeneration.
 
-## 18. [Chromatic Crescent](https://marlonbarrios.github.io/chromatic_crescent/)
+## 19. [Chromatic Crescent](https://marlonbarrios.github.io/chromatic_crescent/)
 Color arcs shift gradually, tracing temporal gradients of hue and light.  
 Time as chromatic transition.
 
-## 19. [Epistemic Foraging & Self-Reference](https://marlonbarrios.github.io/epistemicforagingandselfreference/)
+## 20. [Epistemic Foraging & Self-Reference](https://marlonbarrios.github.io/epistemicforagingandselfreference/)
 A meta-piece.  
 Elements move across the screen as if searching for distinctions—  
 a reflection on how we forage for meaning  
