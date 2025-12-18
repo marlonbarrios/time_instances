@@ -42,7 +42,7 @@ algorithmic perception, and the micro-geometries of experience.
 
 ## 2. [Ephemeral Accumulation for Human Time Scale](https://marlonbarrios.github.io/ephemeral_accumulation/)
 
-## 3. [Perceived Ativity at Certain Times](https://marlonbarrios.github.io/PerceivedActivityatCertainTime-/docs/index.html)
+## 3. [Perceived Activity at Certain Times](https://marlonbarrios.github.io/PerceivedActivityatCertainTime-/docs/index.html)
 
 ## 4. [Temporal Patterns of 100 Rotating Nested Squares](https://marlonbarrios.github.io/spirograh100squares/)
 
